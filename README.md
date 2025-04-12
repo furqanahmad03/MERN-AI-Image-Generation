@@ -1,4 +1,4 @@
-# 🖼️ AI Image Generator – MERN Stack
+# 🖼️ AI Image Generation – MERN Stack
 
 A full-stack MERN application that enables users to generate AI-powered images based on custom text prompts using the OpenAI API. The app supports image upload via Cloudinary, stores posts in MongoDB, and includes a responsive frontend with search functionality and loading indicators.
 
@@ -34,7 +34,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 ```bash
 git clone https://github.com/your-username/mern-ai-image-generation.git
-cd mern-ai-image-generator
+cd mern-ai-image-generation
 ```
 
 2. **Install dependencies for server**
