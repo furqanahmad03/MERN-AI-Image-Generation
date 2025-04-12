@@ -33,7 +33,7 @@ OPENAI_API_KEY=your_openai_api_key
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/mern-ai-image-generation.git
+git clone https://github.com/furqanahmad03/mern-ai-image-generation.git
 cd mern-ai-image-generation
 ```
 
