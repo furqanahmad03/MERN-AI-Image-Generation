@@ -47,7 +47,7 @@ npm install
 3. **Start the server**
 
 ```bash
-npm run dev
+npm start
 ```
 
 4. **Install dependencies for client**
