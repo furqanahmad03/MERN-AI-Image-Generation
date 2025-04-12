@@ -80,7 +80,7 @@ The app should now be running at `http://localhost:3000` and the server at `http
 ## 📁 Project Structure
 
 ```
-mern-ai-image-generator/
+mern-ai-image-generation/
 │
 ├── client/         # React frontend
 │   └── ...
